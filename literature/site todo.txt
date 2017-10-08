@@ -1,0 +1,75 @@
+site to do
+
+- admin page:
+	- file upload - maybe only on FTP 
+	- hours logging - make db tables, scripts to conveniently view info --> started
+	- employee profiles
+
+- site functionality: 
+	- search bar --> mostly done
+	- CAPTCHA --> found API
+	- about, how-to page, FAQ, employees about pages 
+	- social media --> started, waiting
+	- web API - not needed right now
+	- admin site
+		- login --> mostly done
+		- hours and pay --> mostly done
+		- edit sitemamp
+		
+		- upload content --> mostly done
+	- display categories, service providers --> DONE
+		- google maps --> found API
+	- register, login --> mostly done
+	- contact us, customer support - mostly done
+		- help center
+	- post a bid/job --> mostly done
+	- user system - profile page, preferences/settings, privacy settings
+
+	- header, footer --> started, mostly Dan
+	- reset password --> mostly done
+	- verify account --> started
+	- privacy policy, Terms of use
+	- access restriction --> mostly done
+	- 
+
+
+- backend:
+	- clone or gain access to original db --> DONE
+	- db testing
+	- admin table, hours and pay table --> mostly done
+	- URL routing 
+	- data model
+	- foreign keys - db pointers
+
+- full stack:
+	- user model
+	- semantic graphs
+	- learning algs
+
+- business: 
+	- name change -- maybe 
+	- marketing
+	- social media, advertising
+	- business model, data model
+	- mission, vision, value statements
+	- about, why we created this service, flaws + drawbacks we've found in existing similar services, i.e. why choose us over our competitors
+
+- research:
+	- functional languages: elixir, scala, clojure, haskell
+	- performance/compiled languages: Go/GoLang, Rust, Java, C#
+	- Caching: Nginx, Apache, Database, In-Memory
+	- Data: Relational, Redis/sessions/caching, Document, Search engine
+	- Unit/Functional testing 
+	- API's, RESTful services
+	- Security
+	- Authorization/authentication: OAUTH2, JSON WebToken
+	- SOA/microsytems
+	- Deployment
+	- websocket
+	- ORM/Data Structure
+	- DevOps:
+		- Web platforms: Digital Ocean, AWS, Azure, Rackspace, Heroku
+		- Server Management/Config management: Linux, Docker, Ansible, Salt, Chef, Puppet
+		- Docker: Big Scale: Kubernetes, Mesos, Small Scale: Docker Swarm, Docker 1.12 Swarm, UI-driven: Rancher, Docker Cloud, Docker Datacenter/Universal Control Plane
+		- Continuous Testing & Deployment: Jenkins, SemaphoreCI, CircleCI, Codeship
+		- Vagrant

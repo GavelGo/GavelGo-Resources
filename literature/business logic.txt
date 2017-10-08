@@ -1,0 +1,17 @@
+business logic, objects, and rules:
+
+- logic is procedural: portion of enterprise system which determines how data is transformed or calculated, how routed to people or software(workflow). example. welcoming new visitors. 
+- Rules are declarative: formal expressions of business policy that model real-life business objects, e.g. accounts, inventories). example, every new visitor should be welcomed. 
+
+logic carries out rules.
+
+
+LOGIC
+- registration sequence of events: user is presented with a multi-page form, which asks for full name, email, phone number, shipping address, and billing address. On success, the user is alerted of such.
+
+RULES
+- emails must be verified and operational, open accounts
+- in order to register an account, users must supply: full name, email, phone number, shipping address, and billing address.
+- Specific formats for user address, email address, phone number that must be followed: 
+- Specific formats for service provider info, posting coupons, contacting customers: 
+- Specific guidelines for bidpuppy to follow in storing information, connecting customers and providers: 
